@@ -1,1 +1,3 @@
-print("NEM FUDENDOOOO")
+print("Olá mundo!")
+
+print(1+2)
