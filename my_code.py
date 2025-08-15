@@ -1,3 +1,3 @@
-print("Olá mundo!")
+idade = int(input("Digite sua idade: "))
 
-print(1+2)
+print("Sua idade é:", idade)
